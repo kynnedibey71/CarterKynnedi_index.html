@@ -1,0 +1,108 @@
+<html>
+<head>
+    <title>About Me - Kynnedi Carter-Bey</title>
+</head>
+
+<body>
+
+<center>
+    <h1>About Me: Kynnedi Carter-Bey</h1>
+
+<img src="kynnedi.jpg" width="250">
+
+<p>
+    <b>Welcome to my webpage!</b>
+</p>
+
+</center>
+
+<h2>Biography</h2>
+
+<p>
+    My name is <b>Kynnedi Carter-Bey</b>, and I am a current sophomore at  
+    <a href="https://www.una.edu/">University of North Alabama</a>. 
+    I am majoring in <b>Biomedical Sciences</b> because I have an immense passion for
+     science, medicine, and helping others. My goal is to become an 
+    <i>anesthesiologist</i> and build a career where I can make a positive 
+    difference in people's lives.
+</p>
+
+<p>
+    I am a first-generation college student, and I have learned the importance 
+    of responsibility, perseverance, and believing in myself. I am determined 
+    to continue my education and accomplish my career goals.
+</p>
+
+<h3>My Hobbies and Interests</h3>
+
+<p>
+    Outside of school, I enjoy many different activities. Some of my favorite 
+    hobbies and interests include:
+</p>
+
+<ul>
+    <li><b>Theatre:</b> I have been interested in theatre since elementary school 
+        and enjoy acting, dancing, singing, and working behind the scenes.</li>
+
+<li><b>Baking:</b> I really enjoy baking and I'm currently in the process of expanding my baking business.
+  You can view my baking page on
+  <a href="https://www.instagram.com/monies.munchies?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==">Instagram</a>.</li>
+
+<li><b>Travel:</b> I enjoy learning about the history of different places and hope to travel 
+    to places such as Ghana or Morocco in the future.</li>
+
+<li><b>Science:</b> I am especially interested in evolution, medicine, and 
+  <a href="https://www.hsci.harvard.edu/diabetes-0">medical research</a>.</li>
+
+<li><b>Art and crafts:</b> I enjoy making sculptures, drawings, and homemade jewelry.</li>
+
+</ul>
+
+<h4>Accomplishments</h4>
+
+<p>
+    One of my accomplishments is continuing my college education while self-funding 
+   my degree. I have also competed in several state 
+    theatre competitions. These experiences have helped me become more confident, 
+    responsible, and comfortable working with others.
+</p>
+
+<p>
+    I am also proud of pursuing a career in medicine. My personal experiences and interest 
+    in science have encouraged me to continue learning about healthcare and the 
+    human body.
+</p>
+
+<h5>Affiliations and Activities</h5>
+
+<ul>
+    <li>
+        <a href="https://www.una.edu/">University of North Alabama</a>
+    </li>
+
+<li>
+    <a href="https://www.una.edu/academics/colleges/science-and-technology/index.html">
+    College of Science and Technology
+    </a>
+</li>
+
+</ul>
+
+<h6>My Future Goals</h6>
+
+<p>
+    My biggest goal is to become an <b>anesthesiologist</b> and use my career 
+    to help people during some of the most important moments of their lives. 
+    In the future, I would also like to eventually own a hospital. 
+    I hope to create opportunities to help people who may not 
+    otherwise be able to afford healthcare.
+</p>
+
+<center>
+    <p>
+        <i>Thank you for visiting my webpage!</i>
+    </p>
+</center>
+
+</body>
+</html>
